@@ -1,0 +1,68 @@
+/* * {
+    margin: 0px auto;
+}
+
+header {
+    padding: 16px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: white;
+}
+
+nav {
+    float: right;
+    padding: 5px;
+    margin-right: 20px;
+}
+
+.slack-logo {
+    float: left;
+} */
+
+data:hover::after {
+    content: ' (ID 'attr(value) ')';
+    font-size: .7em;
+}
+
+
+/* .navigation-item {
+    padding: 15px;
+}
+
+.has-dropdown {
+    border: 1px solid black;
+    border-radius: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+}
+
+article h1 {
+    margin-top: 200px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+section p {
+    margin-top: 50px;
+    text-align: center;
+}
+
+article h2 {
+    font-weight: bold;
+    text-align: center;
+    margin-top: 150px;
+}
+
+section {
+    text-align: center;
+}
+
+.stat-box {
+    display: inline-block;
+    vertical-align: top;
+    width: 32%;
+} */
